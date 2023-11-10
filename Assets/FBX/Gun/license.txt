@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hand-painted Wild West gun
+* source:	https://sketchfab.com/3d-models/hand-painted-wild-west-gun-f1aae082e01845689a395f59a4e93eff
+* author:	MaximGunaza (https://sketchfab.com/MaximGunaza)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hand-painted Wild West gun" (https://sketchfab.com/3d-models/hand-painted-wild-west-gun-f1aae082e01845689a395f59a4e93eff) by MaximGunaza (https://sketchfab.com/MaximGunaza) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

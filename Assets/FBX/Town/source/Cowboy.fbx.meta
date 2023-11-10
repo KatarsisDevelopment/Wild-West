@@ -1,0 +1,1491 @@
+fileFormatVersion: 2
+guid: 20a228fa0db9825499e3300363087f97
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -3901600957492624102
+    second: Cowboy|PixCap Animation_cone (1)
+  - first:
+      74: -9023480153411437668
+    second: Cowboy|PixCap Animation_cone (2)
+  - first:
+      74: -1765655380180757331
+    second: Cowboy|PixCap Animation_Cowboy
+  - first:
+      74: 4325164889633343677
+    second: Cowboy|PixCap Animation_model
+  - first:
+      74: -8988908772473466648
+    second: Cowboy|PixCap Animation_model.001
+  - first:
+      74: 6383885271246973624
+    second: Cowboy|PixCap Animation_Pistol
+  - first:
+      74: 8182565762372374417
+    second: Cowboy|PixCap Animation_Pistol.001
+  - first:
+      74: -2077868900914396228
+    second: Cowboy|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: -7925275877046443754
+    second: Cowboy|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 4098925489909577105
+    second: Cowboy|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: -3242237889751146194
+    second: Cowboy|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -8293389208060377925
+    second: Cowboy|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: -8402040564959789285
+    second: Cowboy|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: -5916313918537487620
+    second: Cowboy|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: 7421325061800807947
+    second: Cowboy|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: 3589625419161756667
+    second: Cowboy|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: -4958929611964993199
+    second: Cowboy|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: -7811628995587354579
+    second: Cowboy|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 2902178587190896898
+    second: Cowboy|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: -7261652898633795742
+    second: Cowboy|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: 7731413640121175965
+    second: Cowboy|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 5533622338558752531
+    second: Cowboy Skeleton|PixCap Animation_cone (1)
+  - first:
+      74: -8493490930385162163
+    second: Cowboy Skeleton|PixCap Animation_cone (2)
+  - first:
+      74: 8355800303847024402
+    second: Cowboy Skeleton|PixCap Animation_Cowboy
+  - first:
+      74: 2205802181518611386
+    second: Cowboy Skeleton|PixCap Animation_Cowboy Skeleton
+  - first:
+      74: 7310825643476501758
+    second: Cowboy Skeleton|PixCap Animation_model
+  - first:
+      74: 5246317206575438813
+    second: Cowboy Skeleton|PixCap Animation_model.001
+  - first:
+      74: -5901572775636051539
+    second: Cowboy Skeleton|PixCap Animation_Pistol
+  - first:
+      74: -9033963299363524257
+    second: Cowboy Skeleton|PixCap Animation_Pistol.001
+  - first:
+      74: 8739249947461689242
+    second: Cowboy Skeleton|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: -5976219639108970071
+    second: Cowboy Skeleton|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 8482506008781903475
+    second: Cowboy Skeleton|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: 8506241521935821836
+    second: Cowboy Skeleton|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: 6890102654247515533
+    second: Cowboy Skeleton|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: 735081743661974692
+    second: Cowboy Skeleton|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 6941173426341513579
+    second: Cowboy Skeleton|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: 5051377029112018897
+    second: Cowboy Skeleton|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: -665013972973196452
+    second: Cowboy Skeleton|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: 7584296711894446128
+    second: Cowboy Skeleton|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: -3830554115680664053
+    second: Cowboy Skeleton|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 5836926072178071653
+    second: Cowboy Skeleton|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: -3187075510266775847
+    second: Cowboy Skeleton|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: 4343514726967167682
+    second: Cowboy Skeleton|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 3439793296874575793
+    second: Wolf3D_Avatar|PixCap Animation_cone (1)
+  - first:
+      74: -2258111997471697808
+    second: Wolf3D_Avatar|PixCap Animation_cone (2)
+  - first:
+      74: 850843682777881974
+    second: Wolf3D_Avatar|PixCap Animation_Cowboy
+  - first:
+      74: 1709964170654140809
+    second: Wolf3D_Avatar|PixCap Animation_model
+  - first:
+      74: 3068177893912015256
+    second: Wolf3D_Avatar|PixCap Animation_model.001
+  - first:
+      74: 2459384263331118493
+    second: Wolf3D_Avatar|PixCap Animation_Pistol
+  - first:
+      74: -7214748753938572441
+    second: Wolf3D_Avatar|PixCap Animation_Pistol.001
+  - first:
+      74: 3319856635850026006
+    second: Wolf3D_Avatar|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: -6696390360422904563
+    second: Wolf3D_Avatar|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: -9119197011593460794
+    second: Wolf3D_Avatar|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: 5739105710842132972
+    second: Wolf3D_Avatar|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -5646523182272482287
+    second: Wolf3D_Avatar|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: -1933015815836761803
+    second: Wolf3D_Avatar|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 1911747622181064613
+    second: Wolf3D_Avatar|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: 4820862459451459171
+    second: Wolf3D_Avatar|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: 5310614827029397738
+    second: Wolf3D_Avatar|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: -2143879833537030826
+    second: Wolf3D_Avatar|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: 1336070993277252710
+    second: Wolf3D_Avatar|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 3440858315130120927
+    second: Wolf3D_Avatar|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: 2922262509627774193
+    second: Wolf3D_Avatar|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: -978608678103072732
+    second: Wolf3D_Avatar|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: -2552147389453780298
+    second: Pistol|PixCap Animation_cone (1)
+  - first:
+      74: 3115404666435317066
+    second: Pistol|PixCap Animation_cone (2)
+  - first:
+      74: -1912158289627711407
+    second: Pistol|PixCap Animation_Cowboy
+  - first:
+      74: 774627106903718181
+    second: Pistol|PixCap Animation_model
+  - first:
+      74: -1186106624270295863
+    second: Pistol|PixCap Animation_model.001
+  - first:
+      74: -8799137638717002017
+    second: Pistol|PixCap Animation_Pistol
+  - first:
+      74: 6677646054558037599
+    second: Pistol|PixCap Animation_Pistol.001
+  - first:
+      74: -117944324988595463
+    second: Pistol|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: 2214886662038292719
+    second: Pistol|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 1280267519068602555
+    second: Pistol|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: -1304290901111076908
+    second: Pistol|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: 5180764200481148192
+    second: Pistol|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: -629508651873433851
+    second: Pistol|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 8871401830926644213
+    second: Pistol|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: -4024661965339201341
+    second: Pistol|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: 5834770965934883607
+    second: Pistol|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: 277841402229215700
+    second: Pistol|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: 4242475813475600705
+    second: Pistol|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: -1610916876906254262
+    second: Pistol|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: -6344605566949265414
+    second: Pistol|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: 6893656777599725737
+    second: Pistol|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 2976477480549692984
+    second: model|PixCap Animation_cone (1)
+  - first:
+      74: -5131093494224038170
+    second: model|PixCap Animation_cone (2)
+  - first:
+      74: 7291843893040117048
+    second: model|PixCap Animation_Cowboy
+  - first:
+      74: 7277015861131204790
+    second: model|PixCap Animation_model
+  - first:
+      74: 8396716956933871064
+    second: model|PixCap Animation_model.001
+  - first:
+      74: -4159228233664164025
+    second: model|PixCap Animation_Pistol
+  - first:
+      74: -2340016856253178807
+    second: model|PixCap Animation_Pistol.001
+  - first:
+      74: 3915995334226031604
+    second: model|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: -8425962273799089172
+    second: model|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 3038711452718083372
+    second: model|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: -3477762708335273723
+    second: model|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -7711327156277024290
+    second: model|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: 1399390157066287860
+    second: model|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: -7729025457069830235
+    second: model|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: -4796929934287467864
+    second: model|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: -6215292165015927287
+    second: model|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: -1973062878139917476
+    second: model|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: 3672204662977275424
+    second: model|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 121591859336144471
+    second: model|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: -4432302854351864632
+    second: model|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: -3311217273175933787
+    second: model|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 1391036526589901800
+    second: Tmp_IK_LeftArm|PixCap Animation_cone (1)
+  - first:
+      74: -4392800471645216545
+    second: Tmp_IK_LeftArm|PixCap Animation_cone (2)
+  - first:
+      74: -2795195938575878675
+    second: Tmp_IK_LeftArm|PixCap Animation_Cowboy
+  - first:
+      74: -7103507292209356905
+    second: Tmp_IK_LeftArm|PixCap Animation_model
+  - first:
+      74: -6649975674166297820
+    second: Tmp_IK_LeftArm|PixCap Animation_model.001
+  - first:
+      74: -3022325817745378384
+    second: Tmp_IK_LeftArm|PixCap Animation_Pistol
+  - first:
+      74: 7949722485248417610
+    second: Tmp_IK_LeftArm|PixCap Animation_Pistol.001
+  - first:
+      74: -1545194183656934525
+    second: Tmp_IK_LeftArm|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: 7073685272072442479
+    second: Tmp_IK_LeftArm|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: -5067483731522967606
+    second: Tmp_IK_LeftArm|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: -2840539650048372410
+    second: Tmp_IK_LeftArm|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -5563278352515956314
+    second: Tmp_IK_LeftArm|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: 8046931178948328409
+    second: Tmp_IK_LeftArm|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: -3011231296517920498
+    second: Tmp_IK_LeftArm|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: -4911999191472287180
+    second: Tmp_IK_LeftArm|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: 2652095145952933111
+    second: Tmp_IK_LeftArm|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: -4452291868662354037
+    second: Tmp_IK_LeftArm|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: 171391871336623754
+    second: Tmp_IK_LeftArm|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: -2557496590963649548
+    second: Tmp_IK_LeftArm|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: -847171152835161670
+    second: Tmp_IK_LeftArm|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: 5199304824184692380
+    second: Tmp_IK_LeftArm|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 3333922829649440316
+    second: Tmp_IK_LeftForeArm|PixCap Animation_cone (1)
+  - first:
+      74: -509860465823245930
+    second: Tmp_IK_LeftForeArm|PixCap Animation_cone (2)
+  - first:
+      74: 4725492914520456279
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Cowboy
+  - first:
+      74: 5353260270682844396
+    second: Tmp_IK_LeftForeArm|PixCap Animation_model
+  - first:
+      74: 8775156697422849491
+    second: Tmp_IK_LeftForeArm|PixCap Animation_model.001
+  - first:
+      74: 2770345283671538970
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Pistol
+  - first:
+      74: 8977129048622211406
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Pistol.001
+  - first:
+      74: 4273136829649688834
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: -4419536871857348405
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: -1745648262327751269
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: 5000175797791218297
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -6809916152708280308
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: -9066236260896822848
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 4765474373147854731
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: -5191641676916440917
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: 430530887147188215
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: 1104413993772870128
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: 928184215236445388
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 8555516799910714024
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: 1101125316107550703
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: -3188157381606520577
+    second: Tmp_IK_LeftForeArm|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 6832421423821284901
+    second: Tmp_IK_LeftHand|PixCap Animation_cone (1)
+  - first:
+      74: 122471288213194668
+    second: Tmp_IK_LeftHand|PixCap Animation_cone (2)
+  - first:
+      74: 495853148316572265
+    second: Tmp_IK_LeftHand|PixCap Animation_Cowboy
+  - first:
+      74: -1332658218811493840
+    second: Tmp_IK_LeftHand|PixCap Animation_model
+  - first:
+      74: 5887882841103256768
+    second: Tmp_IK_LeftHand|PixCap Animation_model.001
+  - first:
+      74: -1837194974265473234
+    second: Tmp_IK_LeftHand|PixCap Animation_Pistol
+  - first:
+      74: -7538322047362162285
+    second: Tmp_IK_LeftHand|PixCap Animation_Pistol.001
+  - first:
+      74: -5642366245872107567
+    second: Tmp_IK_LeftHand|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: 5830340081032048483
+    second: Tmp_IK_LeftHand|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: -1364497929120412530
+    second: Tmp_IK_LeftHand|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: -7755143699805552863
+    second: Tmp_IK_LeftHand|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -1942610477331178252
+    second: Tmp_IK_LeftHand|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: -4607218083754953079
+    second: Tmp_IK_LeftHand|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: -5411584569355123890
+    second: Tmp_IK_LeftHand|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: -794469517466070388
+    second: Tmp_IK_LeftHand|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: 3370724889881039802
+    second: Tmp_IK_LeftHand|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: -140742468244841383
+    second: Tmp_IK_LeftHand|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: -563028020990939990
+    second: Tmp_IK_LeftHand|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: -6590808964790299869
+    second: Tmp_IK_LeftHand|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: -6134942467182523211
+    second: Tmp_IK_LeftHand|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: 3614472194409157541
+    second: Tmp_IK_LeftHand|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 1396208926351602446
+    second: Pistol.001|PixCap Animation_cone (1)
+  - first:
+      74: 1436586321872430467
+    second: Pistol.001|PixCap Animation_cone (2)
+  - first:
+      74: 8255801091406927479
+    second: Pistol.001|PixCap Animation_Cowboy
+  - first:
+      74: -9034988540756370311
+    second: Pistol.001|PixCap Animation_model
+  - first:
+      74: -285646804010188900
+    second: Pistol.001|PixCap Animation_model.001
+  - first:
+      74: -1542574070226339748
+    second: Pistol.001|PixCap Animation_Pistol
+  - first:
+      74: -3409779260300831500
+    second: Pistol.001|PixCap Animation_Pistol.001
+  - first:
+      74: 1170854472239100040
+    second: Pistol.001|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: 35565673354622436
+    second: Pistol.001|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 3749951069613142418
+    second: Pistol.001|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: -2963322194792235804
+    second: Pistol.001|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -4091624479650100108
+    second: Pistol.001|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: -7961104407614065617
+    second: Pistol.001|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 7678904731636267094
+    second: Pistol.001|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: 4523360787481471979
+    second: Pistol.001|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: 2980469047516763924
+    second: Pistol.001|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: -6173703032230042288
+    second: Pistol.001|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: 5098372246596603526
+    second: Pistol.001|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 4721978963088235175
+    second: Pistol.001|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: 7691724661666528517
+    second: Pistol.001|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: 561289154547999987
+    second: Pistol.001|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 7245498798594569994
+    second: model.001|PixCap Animation_cone (1)
+  - first:
+      74: -4233779782528413324
+    second: model.001|PixCap Animation_cone (2)
+  - first:
+      74: 6694011173641212931
+    second: model.001|PixCap Animation_Cowboy
+  - first:
+      74: -1687888404419681979
+    second: model.001|PixCap Animation_model
+  - first:
+      74: -550827567231480636
+    second: model.001|PixCap Animation_model.001
+  - first:
+      74: 8576541955929970639
+    second: model.001|PixCap Animation_Pistol
+  - first:
+      74: 4913893499251046221
+    second: model.001|PixCap Animation_Pistol.001
+  - first:
+      74: -796726592991934911
+    second: model.001|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: 312063506113477937
+    second: model.001|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: -3349965456288755438
+    second: model.001|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: 9002540105776305577
+    second: model.001|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -8452067528909929288
+    second: model.001|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: 3227371096579761779
+    second: model.001|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: -8751253898541521263
+    second: model.001|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: 1182928582841456804
+    second: model.001|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: 8165621411632157869
+    second: model.001|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: -4494704487813280117
+    second: model.001|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: -7906150800986385391
+    second: model.001|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 7711986005442123267
+    second: model.001|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: -4131855786652169352
+    second: model.001|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: 4397798085612608640
+    second: model.001|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: -56818437708219874
+    second: Tmp_IK_RightArm|PixCap Animation_cone (1)
+  - first:
+      74: -1231877851988579433
+    second: Tmp_IK_RightArm|PixCap Animation_cone (2)
+  - first:
+      74: -4241961818339010293
+    second: Tmp_IK_RightArm|PixCap Animation_Cowboy
+  - first:
+      74: -8983982560629778583
+    second: Tmp_IK_RightArm|PixCap Animation_model
+  - first:
+      74: -7007232967064007034
+    second: Tmp_IK_RightArm|PixCap Animation_model.001
+  - first:
+      74: 636010061780326681
+    second: Tmp_IK_RightArm|PixCap Animation_Pistol
+  - first:
+      74: -3024360630226416475
+    second: Tmp_IK_RightArm|PixCap Animation_Pistol.001
+  - first:
+      74: 3538030754509312480
+    second: Tmp_IK_RightArm|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: -4773431201371248290
+    second: Tmp_IK_RightArm|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 7836978042357286070
+    second: Tmp_IK_RightArm|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: 5624605373230266870
+    second: Tmp_IK_RightArm|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: 1863102261214701346
+    second: Tmp_IK_RightArm|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: -571898625107117109
+    second: Tmp_IK_RightArm|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: -5318711050238759939
+    second: Tmp_IK_RightArm|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: -7758244896939958405
+    second: Tmp_IK_RightArm|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: -2572398384827921010
+    second: Tmp_IK_RightArm|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: 6391131883659754233
+    second: Tmp_IK_RightArm|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: -4545380483999526973
+    second: Tmp_IK_RightArm|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 6868615493772936487
+    second: Tmp_IK_RightArm|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: 7520187172124856404
+    second: Tmp_IK_RightArm|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: 2119294815456677786
+    second: Tmp_IK_RightArm|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: -3686781703113333731
+    second: Tmp_IK_RightForeArm|PixCap Animation_cone (1)
+  - first:
+      74: 6266090971904712963
+    second: Tmp_IK_RightForeArm|PixCap Animation_cone (2)
+  - first:
+      74: -6439682968825996287
+    second: Tmp_IK_RightForeArm|PixCap Animation_Cowboy
+  - first:
+      74: 2525550026755157818
+    second: Tmp_IK_RightForeArm|PixCap Animation_model
+  - first:
+      74: 3977586891093044215
+    second: Tmp_IK_RightForeArm|PixCap Animation_model.001
+  - first:
+      74: -3044842470163215035
+    second: Tmp_IK_RightForeArm|PixCap Animation_Pistol
+  - first:
+      74: 2452003534620851537
+    second: Tmp_IK_RightForeArm|PixCap Animation_Pistol.001
+  - first:
+      74: -6313223497515224370
+    second: Tmp_IK_RightForeArm|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: -3605558685149444938
+    second: Tmp_IK_RightForeArm|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 6782581532648265315
+    second: Tmp_IK_RightForeArm|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: -2477619499616569341
+    second: Tmp_IK_RightForeArm|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -1072290080631207296
+    second: Tmp_IK_RightForeArm|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: -3194727831783850954
+    second: Tmp_IK_RightForeArm|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 146906887050950650
+    second: Tmp_IK_RightForeArm|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: 4114791108859866958
+    second: Tmp_IK_RightForeArm|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: 7250266353600230341
+    second: Tmp_IK_RightForeArm|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: -6829087207425314897
+    second: Tmp_IK_RightForeArm|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: 7497727178722877326
+    second: Tmp_IK_RightForeArm|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: -8665337677229599870
+    second: Tmp_IK_RightForeArm|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: -8302713215891709227
+    second: Tmp_IK_RightForeArm|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: -867360656044807419
+    second: Tmp_IK_RightForeArm|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: -5196984465970404427
+    second: Tmp_IK_RightHand|PixCap Animation_cone (1)
+  - first:
+      74: -765465386622717349
+    second: Tmp_IK_RightHand|PixCap Animation_cone (2)
+  - first:
+      74: 7245285233845573335
+    second: Tmp_IK_RightHand|PixCap Animation_Cowboy
+  - first:
+      74: -229303746387109931
+    second: Tmp_IK_RightHand|PixCap Animation_model
+  - first:
+      74: -299971448483918558
+    second: Tmp_IK_RightHand|PixCap Animation_model.001
+  - first:
+      74: 6205878320323465986
+    second: Tmp_IK_RightHand|PixCap Animation_Pistol
+  - first:
+      74: -1797381822724305760
+    second: Tmp_IK_RightHand|PixCap Animation_Pistol.001
+  - first:
+      74: -1252452945615566771
+    second: Tmp_IK_RightHand|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: 5343570301280760168
+    second: Tmp_IK_RightHand|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: -5606957136409630687
+    second: Tmp_IK_RightHand|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: -1236701827979092943
+    second: Tmp_IK_RightHand|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -4346794433514412754
+    second: Tmp_IK_RightHand|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: 5302502428072922401
+    second: Tmp_IK_RightHand|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 6141560102910248985
+    second: Tmp_IK_RightHand|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: -6605638822528826287
+    second: Tmp_IK_RightHand|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: 2201527108788226643
+    second: Tmp_IK_RightHand|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: 5630456517687113379
+    second: Tmp_IK_RightHand|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: -4197383075726244015
+    second: Tmp_IK_RightHand|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 2942507038143518926
+    second: Tmp_IK_RightHand|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: 5818873617716887072
+    second: Tmp_IK_RightHand|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: -3445635174948766671
+    second: Tmp_IK_RightHand|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 2978076853389837557
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_cone (1)
+  - first:
+      74: 8575277116354377891
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_cone (2)
+  - first:
+      74: 1750398378192555218
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Cowboy
+  - first:
+      74: 3902892483138540399
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_model
+  - first:
+      74: 2074279842576225126
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_model.001
+  - first:
+      74: -8183482707217780968
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Pistol
+  - first:
+      74: -4762104331723184766
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Pistol.001
+  - first:
+      74: -1129126502190297044
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: 8792129351635637836
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 8590300909982759687
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: 340943712074986957
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: 5166348516440569112
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: -4363917711824868574
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 6907691193028820346
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: 7325041334025013965
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: -820680333686318741
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: -9220844349608543116
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: -1132771045262713394
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 457486533860783629
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: 5149168249473955234
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: 1620286971787672337
+    second: Tmp_IK_LeftUpLeg|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 83199907185870214
+    second: Tmp_IK_LeftLeg|PixCap Animation_cone (1)
+  - first:
+      74: -2789835511236623522
+    second: Tmp_IK_LeftLeg|PixCap Animation_cone (2)
+  - first:
+      74: -7602612384074108095
+    second: Tmp_IK_LeftLeg|PixCap Animation_Cowboy
+  - first:
+      74: -1611701465786326379
+    second: Tmp_IK_LeftLeg|PixCap Animation_model
+  - first:
+      74: -6637473131168252980
+    second: Tmp_IK_LeftLeg|PixCap Animation_model.001
+  - first:
+      74: 4822792806427860350
+    second: Tmp_IK_LeftLeg|PixCap Animation_Pistol
+  - first:
+      74: 6489942028883997420
+    second: Tmp_IK_LeftLeg|PixCap Animation_Pistol.001
+  - first:
+      74: -8606524072301728795
+    second: Tmp_IK_LeftLeg|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: 6494349664819566950
+    second: Tmp_IK_LeftLeg|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 4794866753085348386
+    second: Tmp_IK_LeftLeg|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: 3029324219624841666
+    second: Tmp_IK_LeftLeg|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -8018466656907141378
+    second: Tmp_IK_LeftLeg|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: -1781842732534550208
+    second: Tmp_IK_LeftLeg|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: -1606387823463856656
+    second: Tmp_IK_LeftLeg|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: 8718481387555538315
+    second: Tmp_IK_LeftLeg|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: -4563541142812887145
+    second: Tmp_IK_LeftLeg|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: -1196644937307707668
+    second: Tmp_IK_LeftLeg|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: 7427387215925287232
+    second: Tmp_IK_LeftLeg|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: -8583619639504739344
+    second: Tmp_IK_LeftLeg|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: 6009121264182045039
+    second: Tmp_IK_LeftLeg|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: 8578776220493263242
+    second: Tmp_IK_LeftLeg|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 2539139562847084523
+    second: Tmp_IK_LeftFoot|PixCap Animation_cone (1)
+  - first:
+      74: 2732735511094225090
+    second: Tmp_IK_LeftFoot|PixCap Animation_cone (2)
+  - first:
+      74: -8056140675569477051
+    second: Tmp_IK_LeftFoot|PixCap Animation_Cowboy
+  - first:
+      74: -7093427520661144831
+    second: Tmp_IK_LeftFoot|PixCap Animation_model
+  - first:
+      74: 2551499020478184088
+    second: Tmp_IK_LeftFoot|PixCap Animation_model.001
+  - first:
+      74: 2124093739197488509
+    second: Tmp_IK_LeftFoot|PixCap Animation_Pistol
+  - first:
+      74: -8438403650764429924
+    second: Tmp_IK_LeftFoot|PixCap Animation_Pistol.001
+  - first:
+      74: 922954675570707181
+    second: Tmp_IK_LeftFoot|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: -5562435653803737936
+    second: Tmp_IK_LeftFoot|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 1611210997563192804
+    second: Tmp_IK_LeftFoot|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: -2393150559442539059
+    second: Tmp_IK_LeftFoot|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -1931798213481372159
+    second: Tmp_IK_LeftFoot|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: 4353967226412325865
+    second: Tmp_IK_LeftFoot|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: -3463761821268906608
+    second: Tmp_IK_LeftFoot|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: 1684686567278308029
+    second: Tmp_IK_LeftFoot|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: -7913034537742534735
+    second: Tmp_IK_LeftFoot|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: 3864797853697036341
+    second: Tmp_IK_LeftFoot|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: 6470650131741989052
+    second: Tmp_IK_LeftFoot|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: -2176402811398144080
+    second: Tmp_IK_LeftFoot|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: -2748455665142814685
+    second: Tmp_IK_LeftFoot|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: -1395976549011575652
+    second: Tmp_IK_LeftFoot|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 5410286243754837983
+    second: Tmp_IK_RightUpLeg|PixCap Animation_cone (1)
+  - first:
+      74: 6767752671152137508
+    second: Tmp_IK_RightUpLeg|PixCap Animation_cone (2)
+  - first:
+      74: -1606131242375979578
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Cowboy
+  - first:
+      74: 4593028639842853578
+    second: Tmp_IK_RightUpLeg|PixCap Animation_model
+  - first:
+      74: -5647848762664094250
+    second: Tmp_IK_RightUpLeg|PixCap Animation_model.001
+  - first:
+      74: 2072770418928289844
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Pistol
+  - first:
+      74: -3048962839408219935
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Pistol.001
+  - first:
+      74: 212859671788143686
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: -5663501632624923467
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: -2201070727595341006
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: 8289640107098230255
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: 1978056513797896614
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: 4183080448621032966
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 129394573160275350
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: -4389847571515134489
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: -2076406056227130767
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: -1228426052519890411
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: 1268197318282131448
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 6937568689057710768
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: 3623236364550723871
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: -732189217521462898
+    second: Tmp_IK_RightUpLeg|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 9188135528801862020
+    second: Tmp_IK_RightLeg|PixCap Animation_cone (1)
+  - first:
+      74: -5754454400106856603
+    second: Tmp_IK_RightLeg|PixCap Animation_cone (2)
+  - first:
+      74: -3215770293952459952
+    second: Tmp_IK_RightLeg|PixCap Animation_Cowboy
+  - first:
+      74: 4305841367180751666
+    second: Tmp_IK_RightLeg|PixCap Animation_model
+  - first:
+      74: -2395178424872149871
+    second: Tmp_IK_RightLeg|PixCap Animation_model.001
+  - first:
+      74: 3357763599721094410
+    second: Tmp_IK_RightLeg|PixCap Animation_Pistol
+  - first:
+      74: 1992925119031165419
+    second: Tmp_IK_RightLeg|PixCap Animation_Pistol.001
+  - first:
+      74: 1625760159924553849
+    second: Tmp_IK_RightLeg|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: 8332725446184479390
+    second: Tmp_IK_RightLeg|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 5103123590430398573
+    second: Tmp_IK_RightLeg|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: -8688441713053106878
+    second: Tmp_IK_RightLeg|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: 5518915418729103481
+    second: Tmp_IK_RightLeg|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: 2678845318769552762
+    second: Tmp_IK_RightLeg|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 4929380911509632789
+    second: Tmp_IK_RightLeg|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: -8582645206737296936
+    second: Tmp_IK_RightLeg|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: -382448716790306053
+    second: Tmp_IK_RightLeg|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: 1958204487489004976
+    second: Tmp_IK_RightLeg|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: -5041623862141453286
+    second: Tmp_IK_RightLeg|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: -4626533701828834980
+    second: Tmp_IK_RightLeg|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: -142714762450010915
+    second: Tmp_IK_RightLeg|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: -8257447872506837898
+    second: Tmp_IK_RightLeg|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 6942451368681007332
+    second: Tmp_IK_RightFoot|PixCap Animation_cone (1)
+  - first:
+      74: 3527922818658761617
+    second: Tmp_IK_RightFoot|PixCap Animation_cone (2)
+  - first:
+      74: 7273315361645656795
+    second: Tmp_IK_RightFoot|PixCap Animation_Cowboy
+  - first:
+      74: -5194358697548221339
+    second: Tmp_IK_RightFoot|PixCap Animation_model
+  - first:
+      74: -5981981023451157621
+    second: Tmp_IK_RightFoot|PixCap Animation_model.001
+  - first:
+      74: -4409582205505732866
+    second: Tmp_IK_RightFoot|PixCap Animation_Pistol
+  - first:
+      74: 5027152772472686672
+    second: Tmp_IK_RightFoot|PixCap Animation_Pistol.001
+  - first:
+      74: 1341442787307825928
+    second: Tmp_IK_RightFoot|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: -7727703146742636927
+    second: Tmp_IK_RightFoot|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 2052578911044571051
+    second: Tmp_IK_RightFoot|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: -8619442364593965288
+    second: Tmp_IK_RightFoot|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: 8880973750203139619
+    second: Tmp_IK_RightFoot|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: 8832329993035126003
+    second: Tmp_IK_RightFoot|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 5909451990589910296
+    second: Tmp_IK_RightFoot|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: -841296877408921951
+    second: Tmp_IK_RightFoot|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: -152850952552076228
+    second: Tmp_IK_RightFoot|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: 6146690869683662539
+    second: Tmp_IK_RightFoot|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: -7893395600607762825
+    second: Tmp_IK_RightFoot|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 286033409463551681
+    second: Tmp_IK_RightFoot|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: -1331444453444491571
+    second: Tmp_IK_RightFoot|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: -5160677630155834899
+    second: Tmp_IK_RightFoot|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 7242209167047771958
+    second: Wolf3D_Avatar.001|PixCap Animation_cone (1)
+  - first:
+      74: -4484045615769255343
+    second: Wolf3D_Avatar.001|PixCap Animation_cone (2)
+  - first:
+      74: -8463598853631487100
+    second: Wolf3D_Avatar.001|PixCap Animation_Cowboy
+  - first:
+      74: 1177226337000582820
+    second: Wolf3D_Avatar.001|PixCap Animation_model
+  - first:
+      74: -5922936173891830034
+    second: Wolf3D_Avatar.001|PixCap Animation_model.001
+  - first:
+      74: 4168399922097197238
+    second: Wolf3D_Avatar.001|PixCap Animation_Pistol
+  - first:
+      74: 3141121212664184415
+    second: Wolf3D_Avatar.001|PixCap Animation_Pistol.001
+  - first:
+      74: -1977720588516781396
+    second: Wolf3D_Avatar.001|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: -6218174155381060601
+    second: Wolf3D_Avatar.001|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 7598264395432388321
+    second: Wolf3D_Avatar.001|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: -5293909059180917790
+    second: Wolf3D_Avatar.001|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -5851205418414687966
+    second: Wolf3D_Avatar.001|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: -1272270676747780120
+    second: Wolf3D_Avatar.001|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 5215156425335396823
+    second: Wolf3D_Avatar.001|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: -5689300635580623684
+    second: Wolf3D_Avatar.001|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: -787062015907703853
+    second: Wolf3D_Avatar.001|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: 7180098612079866262
+    second: Wolf3D_Avatar.001|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: 5277127354334552783
+    second: Wolf3D_Avatar.001|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: -3687694722440705846
+    second: Wolf3D_Avatar.001|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: 7526504534009849259
+    second: Wolf3D_Avatar.001|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: -6754057594153140523
+    second: Wolf3D_Avatar.001|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: -6410165947656277395
+    second: cone (1)|PixCap Animation_cone (1)
+  - first:
+      74: 6178904100587111893
+    second: cone (1)|PixCap Animation_cone (2)
+  - first:
+      74: 8867648767030248861
+    second: cone (1)|PixCap Animation_Cowboy
+  - first:
+      74: 4397050426687261291
+    second: cone (1)|PixCap Animation_model
+  - first:
+      74: 4865229753590866292
+    second: cone (1)|PixCap Animation_model.001
+  - first:
+      74: 8583150438851110190
+    second: cone (1)|PixCap Animation_Pistol
+  - first:
+      74: 7695401565984137042
+    second: cone (1)|PixCap Animation_Pistol.001
+  - first:
+      74: -9055167922681378483
+    second: cone (1)|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: -6243299650550094365
+    second: cone (1)|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 361131009552339902
+    second: cone (1)|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: -2943531298400209919
+    second: cone (1)|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: 4381749970349745686
+    second: cone (1)|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: -4126978420311142336
+    second: cone (1)|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 5210654347936839390
+    second: cone (1)|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: -3487702386392055561
+    second: cone (1)|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: -5079498566022063726
+    second: cone (1)|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: 7680066888460664668
+    second: cone (1)|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: -7352755000092602370
+    second: cone (1)|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 4712952561525203067
+    second: cone (1)|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: -6027016641314943768
+    second: cone (1)|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: -7276438434958274344
+    second: cone (1)|PixCap Animation_Wolf3D_Avatar.001
+  - first:
+      74: 4529685103776710436
+    second: cone (2)|PixCap Animation_cone (1)
+  - first:
+      74: -6382776159061812496
+    second: cone (2)|PixCap Animation_cone (2)
+  - first:
+      74: -7328657986155094704
+    second: cone (2)|PixCap Animation_Cowboy
+  - first:
+      74: 3866547963995346296
+    second: cone (2)|PixCap Animation_model
+  - first:
+      74: -4962263264999905998
+    second: cone (2)|PixCap Animation_model.001
+  - first:
+      74: -408232396509967693
+    second: cone (2)|PixCap Animation_Pistol
+  - first:
+      74: -6081156593356557197
+    second: cone (2)|PixCap Animation_Pistol.001
+  - first:
+      74: 5081955422610667929
+    second: cone (2)|PixCap Animation_Tmp_IK_LeftArm
+  - first:
+      74: -4129559900046508072
+    second: cone (2)|PixCap Animation_Tmp_IK_LeftFoot
+  - first:
+      74: 7486706596621872716
+    second: cone (2)|PixCap Animation_Tmp_IK_LeftForeArm
+  - first:
+      74: 3396340832098009286
+    second: cone (2)|PixCap Animation_Tmp_IK_LeftHand
+  - first:
+      74: -3439742460424738555
+    second: cone (2)|PixCap Animation_Tmp_IK_LeftLeg
+  - first:
+      74: -7491451300103506246
+    second: cone (2)|PixCap Animation_Tmp_IK_LeftUpLeg
+  - first:
+      74: 3124062306712619340
+    second: cone (2)|PixCap Animation_Tmp_IK_RightArm
+  - first:
+      74: -5425784293605046989
+    second: cone (2)|PixCap Animation_Tmp_IK_RightFoot
+  - first:
+      74: -5974058266938759774
+    second: cone (2)|PixCap Animation_Tmp_IK_RightForeArm
+  - first:
+      74: -3105717409395353101
+    second: cone (2)|PixCap Animation_Tmp_IK_RightHand
+  - first:
+      74: -462165051606198296
+    second: cone (2)|PixCap Animation_Tmp_IK_RightLeg
+  - first:
+      74: 5938879384306895697
+    second: cone (2)|PixCap Animation_Tmp_IK_RightUpLeg
+  - first:
+      74: -4385369838445014081
+    second: cone (2)|PixCap Animation_Wolf3D_Avatar
+  - first:
+      74: 3556989698502317450
+    second: cone (2)|PixCap Animation_Wolf3D_Avatar.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
